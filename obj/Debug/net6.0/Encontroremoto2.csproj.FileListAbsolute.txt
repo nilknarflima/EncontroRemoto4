@@ -1,0 +1,15 @@
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\completo\Encontroremoto2\bin\Debug\net6.0\Encontroremoto2.exe
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\completo\Encontroremoto2\bin\Debug\net6.0\Encontroremoto2.deps.json
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\completo\Encontroremoto2\bin\Debug\net6.0\Encontroremoto2.runtimeconfig.json
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\completo\Encontroremoto2\bin\Debug\net6.0\Encontroremoto2.dll
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\completo\Encontroremoto2\bin\Debug\net6.0\ref\Encontroremoto2.dll
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\completo\Encontroremoto2\bin\Debug\net6.0\Encontroremoto2.pdb
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\completo\Encontroremoto2\obj\Debug\net6.0\Encontroremoto2.csproj.AssemblyReference.cache
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\completo\Encontroremoto2\obj\Debug\net6.0\Encontroremoto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\completo\Encontroremoto2\obj\Debug\net6.0\Encontroremoto2.AssemblyInfoInputs.cache
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\completo\Encontroremoto2\obj\Debug\net6.0\Encontroremoto2.AssemblyInfo.cs
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\completo\Encontroremoto2\obj\Debug\net6.0\Encontroremoto2.csproj.CoreCompileInputs.cache
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\completo\Encontroremoto2\obj\Debug\net6.0\Encontroremoto2.dll
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\completo\Encontroremoto2\obj\Debug\net6.0\ref\Encontroremoto2.dll
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\completo\Encontroremoto2\obj\Debug\net6.0\Encontroremoto2.pdb
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\completo\Encontroremoto2\obj\Debug\net6.0\Encontroremoto2.genruntimeconfig.cache
